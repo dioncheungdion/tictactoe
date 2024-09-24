@@ -1,0 +1,10 @@
+public class Board {
+    public String[][] board = new String[3][3];
+
+   public Board (){     //constructor
+
+       for (String i=0; i<=3; i)
+   }
+
+
+}
