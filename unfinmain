@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        Board empty = new Board ()
+        Board newBoard = new Board ()
     }
 }
